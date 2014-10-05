@@ -18,5 +18,8 @@ Test Case：
 2.回车一敲，自动生成二维码.
 ![image](test_case2.png)
 
+－－－－－－－－－－－－－－－
+![image](workflow_QRcode.png)
+
 -------
 吐槽: 怎么感觉icon是本workflow唯一的亮点啊摔!~
